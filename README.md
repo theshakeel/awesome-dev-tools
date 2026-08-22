@@ -143,6 +143,9 @@ We encourage contributions from the community, so if you have a favorite develop
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline.
 - [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching and examples.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely for query parameters and API endpoints.
+- [SolveBar JSON Formatter & Validator](https://solvebar.com/tools/json-formatter) - Private, client-side JSON formatter and validator. No data leaves the browser.
+- [SolveBar Regex Tester](https://solvebar.com/tools/regex-tester) - Free regex tester with real-time match highlighting.
+- [SolveBar JWT Decoder](https://solvebar.com/tools/jwt-decoder) - Client-side JWT decoder, nothing sent to a server.
 
 ##### Client-side
 
